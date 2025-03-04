@@ -64,7 +64,7 @@ run_simulation.m
 [MIT License](LICENSE)
 
 ## Contributors
-- Your Name
+- Alvin Sutandar
 
 ## Acknowledgements
 - References to any papers or resources that inspired this project
